@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import '../cubit/auth_cubit.dart';
-import 'login_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   final String userId;
